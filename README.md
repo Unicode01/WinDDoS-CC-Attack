@@ -18,4 +18,4 @@ main.exe -L7 http://www.baidu.com/ 500 120 -cf
 main.exe -L4 1.1.1.1 80 500 120 -SYN 65500  
 main.exe -L4 1.1.1.1 80 500 120 -tcp 65500  
 
-UDP mode will be supported in the future  
+UDP mode has been supported but sometimes it'll crash easily (I DON'T KNOW THE REASON :(
